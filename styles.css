@@ -1,0 +1,11 @@
+.bg-red {
+    border-radius: 2em;
+    background-color: rgb(255, 122, 122);
+    padding: 1em;
+}
+
+.bg-green {
+    border-radius: 2em;
+    background-color: aqua;
+    padding: 1em;
+}
